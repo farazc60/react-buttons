@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-buttons/static/css/main.ab6ac2f0.css",
+    "main.js": "/react-buttons/static/js/main.059a33d7.js",
+    "static/js/453.686130cd.chunk.js": "/react-buttons/static/js/453.686130cd.chunk.js",
+    "index.html": "/react-buttons/index.html",
+    "main.ab6ac2f0.css.map": "/react-buttons/static/css/main.ab6ac2f0.css.map",
+    "main.059a33d7.js.map": "/react-buttons/static/js/main.059a33d7.js.map",
+    "453.686130cd.chunk.js.map": "/react-buttons/static/js/453.686130cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab6ac2f0.css",
+    "static/js/main.059a33d7.js"
+  ]
+}
